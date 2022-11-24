@@ -7,6 +7,9 @@ public class Zzzz {
 	public void Zeno() {
 		
 		System.out.println("OMNI-KING");
+
+		
+		System.out.println("Grand-Minister");
 	}
 
 }
